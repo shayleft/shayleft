@@ -1,4 +1,3 @@
-# Shannon_Leftridge
 # Hi, I'm Shay 👋🏽
 
 <div align="center">  
