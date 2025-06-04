@@ -2,7 +2,7 @@
 # Hi, I'm Shay 👋🏽
 
 <div align="center">
-![Cute banner](file:///Users/lefty/Desktop/IMG%20for%20Github/ChatGPT%20Image%20Jun%204,%202025,%2002_52_02%20PM.png)
+![Cute banner](Shannon_Leftridge/Image/IMG%20for%20Github/ChatGPT%20Image%20Jun%204,%202025,%2002_52_02%20PM.png)
     width="200">
 </div>
 
