@@ -1,20 +1,18 @@
 # Shannon_Leftridge
 # Hi, I'm Shay 👋🏽
 
-<div align="center">
-![Cute banner](Shannon_Leftridge/Image/IMG%20for%20Github/ChatGPT%20Image%20Jun%204,%202025,%2002_52_02%20PM.png)
-    width="200">
-</div>
-
+<div align="center">  
+    ![Cute banner](Shannon_Leftridge/Image/Banner.png)
+    
 ---
+
 <div align="center">
 **Self-Taught Cybersecurity Learner with a Passion for Finance**  
 
 I have gone to the darkside.... Cyber!
 
 <div align="center">
-    ![Evil Kermit](https://www.theguardian.com/technology/2016/nov/30/evil-kermit-perfect-meme-terrible-times#img-1)
-    width="200">
+    ![Evil Kermit](Shannon_Leftridge/Image/Evilkermit.png)
 
 
 🎓 B.B.A. in Finance @ UMass Amherst  
