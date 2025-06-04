@@ -1,7 +1,7 @@
 # Hi, I'm Shay 👋🏽
 
 <div align="center">  
-    ![Cute banner](/Shannon_Leftridge/Image/Banner.png)
+    ![Cute banner](Image/Banner.png)
     
 ---
 
@@ -11,7 +11,7 @@
 I have gone to the darkside.... Cyber!
 
 <div align="center">
-    ![Evil Kermit](/Shannon_Leftridge/Image/Evilkermit.png)
+    ![Evil Kermit](Image/Evilkermit.png)
 
 
 🎓 B.B.A. in Finance @ UMass Amherst  
