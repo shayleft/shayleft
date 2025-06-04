@@ -45,11 +45,10 @@ Creating a dynamic Excel dashboard to visualize personal spending and forecast s
 ## 🧠 Skills & Tools
 
 ```bash
-<div align="center">
 Languages: Python, VBA, HTML/CSS
 Finance Tools: Excel (Certified), QuickBooks, Bloomberg Terminal
 Other: PowerPoint, Git, Markdown, SaasAnt
-</div>
+
 ```
 
 ---
