@@ -1,4 +1,11 @@
-# Hi, I'm Shay 👋🏽
+<h1 align="center">✨ Hi, I'm Shay ✨</h1>
+
+<p align="center">
+  <code>const passion = ["Cybersecurity", "Finance", "Automation"];</code><br>
+  <code>nowLearning("CTFs", "APIs", "Cloud Security")</code>
+</p>
+
+
 <div align="center">
 <img src="./Image/Banner.png" width="650"/>
     
