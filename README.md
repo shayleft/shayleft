@@ -25,7 +25,7 @@ I have gone to the darkside.... Cyber!
 ---
 
 ## 🛠 About Me
-I'm a self-directed learner diving into cybersecurity while building strong foundations in finance and data workflows. I enjoy using tech to simplify, secure, and streamline financial processes. Whether automating spreadsheets, exploring CTFs, or creating tools that save time—I'm always working on smarter solutions. I am a beginner but I love to find my place in this vast industry and learn all I can!
+I'm a self-directed learner diving into cybersecurity while building strong foundations in finance. I enjoy using tech to simplify, secure, and streamline financial processes. Whether automating spreadsheets, exploring CTFs, or creating tools that save time—I'm always working on smarter solutions. I am a beginner but I love to find my place in this vast industry and learn all I can!
 
 Currently developing my GitHub portfolio with a mix of security, automation, and financial analysis projects.
 
