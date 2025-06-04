@@ -1,6 +1,6 @@
 # Hi, I'm Shay 👋🏽
-
-![Cute banner](Image/Banner.png)
+<div align="center">
+<img src="./Image/Banner.png" width="650"/>
     
 ---
 
@@ -9,7 +9,7 @@
 
 I have gone to the darkside.... Cyber!
 
-![Evil Kermit](Image/Evilkermit.png)
+<img src="./Image/Evilkermit.jpg" width="200"/>
 
 
 🎓 B.B.A. in Finance @ UMass Amherst  
