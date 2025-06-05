@@ -1,7 +1,7 @@
 ### 📦 Objective Learning Active Directory & Domain Services
 
 **Checklist:**
-- [ ] Core Concepts of Active Directory (AD
+- [ ] Core Concepts of Active Directory (AD)
 - [ ] Users, Groups & Access Management
 - [ ] Authentication & Trust Models
 - [ ] Administrative Tools & Management
