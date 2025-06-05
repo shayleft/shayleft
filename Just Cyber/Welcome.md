@@ -12,5 +12,9 @@ I will be documenting the process through each of the topics sharing what articl
 
 I know that the best why to studying to trying to teach it back. So take this as a beginner’s journey — I’m new to this, but I’m eager to learn, and I’d love for you to come learn with me. And we'll have a lot of fun along the way :)
 
-![Mememememes](Image/first-day-cybersecurity-meme-1.png)
+
+<div align="center">
+
+  ![Mememememes](/Image/first-day-cybersecurity-meme-1.png)
+  
 
