@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey there & Welcome to this wicked crazy cyber adventure! ✨</h1>
 
 ---
-The goal here is to learn the foundtations of IT and cybersecurity before diving into the _meat and potatoes_ of the cybersecurity domain. 
+The goal here is to learn the foundations of IT and cybersecurity before diving into the _meat and potatoes_ of the cybersecurity domain. 
 
 I am following Osher Astor’s **Zero2Hero** syllabus- basically a roadmap that lays out the **core knowledge requirements anyone would need trying to pursuing a career in cybersecurity**. 
 🔆 https://github.com/osherassor/Zero2Hero 🔆
