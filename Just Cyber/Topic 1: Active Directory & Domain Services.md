@@ -1,4 +1,8 @@
-### 📦 Objective Learning Active Directory & Domain Services
+<table>
+  <tr>
+    <td><img src="/Image/Study.png" width="250"/></td>
+    <td>
+      <strong>✨ 📦 Objective Learning Active Directory & Domain Services
 
 **Checklist Subtopics:**
 - [ ] Core Concepts of Active Directory (AD)
@@ -13,7 +17,8 @@
 
 🔗 [View Content](https://github.com/osherassor/Zero2Hero/tree/main/PC%20Architecture%20%26%20Hardware)
 
+P.S yes I do def write upside down when studying 🙂‍↕
+    </td>
+  </tr>
+</table>
 
-
-
-![Cyber Girl Writing Tasks](./Image/Study.png)    
